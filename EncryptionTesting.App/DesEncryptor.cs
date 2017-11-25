@@ -7,7 +7,7 @@ namespace EncryptionTesting.App
 {
     public static class DesEncryptor
     {
-        private static string Encrypt(string strData, string strKey)
+        public static string Encrypt(string strData, string strKey)
         {
             byte[] iv = {10, 20, 30, 40, 50, 60, 70, 80};
             var key = Encoding.UTF8.GetBytes(strKey);   
@@ -23,7 +23,7 @@ namespace EncryptionTesting.App
             return Convert.ToBase64String(objmst.ToArray());
         }
 
-        private static string Decrypt(string strData, string strKey)
+        public static string Decrypt(string strData, string strKey)
         {
             byte[] iv = {10, 20, 30, 40, 50, 60, 70, 80};
 
