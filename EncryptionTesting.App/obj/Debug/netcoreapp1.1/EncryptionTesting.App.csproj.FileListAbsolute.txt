@@ -1,8 +1,0 @@
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/bin/Debug/netcoreapp1.1/EncryptionTesting.App.deps.json
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/bin/Debug/netcoreapp1.1/EncryptionTesting.App.runtimeconfig.json
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/bin/Debug/netcoreapp1.1/EncryptionTesting.App.runtimeconfig.dev.json
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/bin/Debug/netcoreapp1.1/EncryptionTesting.App.dll
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/bin/Debug/netcoreapp1.1/EncryptionTesting.App.pdb
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/obj/Debug/netcoreapp1.1/EncryptionTesting.App.AssemblyInfo.cs
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/obj/Debug/netcoreapp1.1/EncryptionTesting.App.dll
-/Users/miloszdura/work/EncryptionTesting/EncryptionTesting.App/obj/Debug/netcoreapp1.1/EncryptionTesting.App.pdb
