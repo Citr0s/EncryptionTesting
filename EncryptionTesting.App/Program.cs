@@ -7,9 +7,16 @@ namespace EncryptionTesting.App
     {
         public static void Main(string[] args)
         {
-            // TestOne();
-            // TestTwo();
-            // TestThree();
+            Console.WriteLine("Starting Test 1:");
+            TestOne();
+            
+            Console.WriteLine("Starting Test 2:");
+            TestTwo();
+            
+            Console.WriteLine("Starting Test 3:");
+            TestThree();
+            
+            Console.WriteLine("Starting Test 4:");
             TestFour();
         }
 
